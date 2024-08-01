@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java
 - 📫 How to reach me: don't. hesitate to reach out.
 - 😄 Happiness level: /\
-- ⚡ Fun fact: There's a 17 year age gap between my sister and me.
+- ⚡ Fun fact: there was a 1/20 of getting something, after 60 tries i got it twice
 
 <!---
 firelordozo/firelordozo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
